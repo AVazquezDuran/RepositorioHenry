@@ -1,2 +1,2 @@
 # RepositorioHenry
-Este repositorio es un el ejercicio 1 del modulo 2 de Homework.
+Este repositorio es el ejercicio 1 del 2 de Homework.
